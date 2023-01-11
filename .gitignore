@@ -1,0 +1,4 @@
+.vscode/
+ia.*
+!ia.tex
+!ia.pdf
